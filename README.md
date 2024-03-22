@@ -1,0 +1,1 @@
+Hi! in this project, I created two methods, one that checks if a phrase is a palindrome and the other checks if it is a super palindrome. I also set up unit tests for each method to comfirm they work, and both seem to function fine.
